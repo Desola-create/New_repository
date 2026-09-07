@@ -1,0 +1,2 @@
+clothes ("trouser , shirt , long_sleeve , short_sleeve")
+print (clothes(0))
